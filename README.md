@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/ProfByRnV/github-issue-triage-ml/blob/main/issue_triage_ml.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/ProdByRnV/github-issue-triage-ml/blob/main/issue_triage_ml.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 # 🚀 IssueTriage ML
 
 An end-to-end Natural Language Processing (NLP) project that automates the triage of GitHub issues. 
